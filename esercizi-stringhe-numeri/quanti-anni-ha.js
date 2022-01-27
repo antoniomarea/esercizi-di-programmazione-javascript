@@ -11,3 +11,8 @@
 
   http://www.imparareaprogrammare.it
 */
+var currentyear = 2018;
+var born = 1991;
+console.log(age = currentyear - born);
+console.log(missingyears = 100 - (currentyear - born));
+
