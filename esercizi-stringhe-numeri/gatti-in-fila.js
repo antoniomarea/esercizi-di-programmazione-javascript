@@ -17,3 +17,9 @@
 
   http://www.imparareaprogrammare.it
 */
+var gatti = 44;
+var ognifila = 6;
+var file = gatti / ognifila;
+var mancanti = (ognifila * Math.ceil(file)) - gatti;
+console.log(Math.ceil(file));
+console.log(mancanti);
