@@ -14,7 +14,8 @@
 */
 
 let seconds = 12560
-let minutes = second / 60;
+let minutes = seconds / 60;
 let hours = minutes / 60;
 console.log(Math.round(hours));
 console.log(Math.round((hours % Math.round(hours)) * 60));
+console.log(seconds - Math.round(minutes) * 60);
