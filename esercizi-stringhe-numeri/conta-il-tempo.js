@@ -15,3 +15,5 @@
 
 let second = 12560
 let minutes = second/60;
+let hours = minutes/60;
+colsole.log(Math.flo
