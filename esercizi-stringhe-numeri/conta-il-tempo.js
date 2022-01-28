@@ -12,3 +12,6 @@
 
   http://www.imparareaprogrammare.it
 */
+
+let second = 12560
+let minutes = second/60;
